@@ -1,4 +1,5 @@
-A book to learn hacking for broke niggas. <br><br>
+<p align="center"><img src="http://oi66.tinypic.com/2s6ujvq.jpg"></p>
+<br>A book to learn hacking for broke niggas. <br><br>
 <b>What it has</b>
 <ul>
   <li>Network Basics</li>
